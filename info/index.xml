@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>规约 on 口-口</title>
-    <link>http://xukangze.github.io/info/</link>
+    <link>https://xukangze.github.io/info/</link>
     <description>Recent content in 规约 on 口-口</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="http://xukangze.github.io/info/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language><atom:link href="https://xukangze.github.io/info/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
