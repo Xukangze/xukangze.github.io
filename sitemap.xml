@@ -2,8 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://xukangze.github.io/info/</loc>
-  </url><url>
     <loc>https://xukangze.github.io/record/</loc>
   </url><url>
     <loc>https://xukangze.github.io/works/</loc>
@@ -21,26 +19,21 @@
     <loc>https://xukangze.github.io/works/p1/</loc>
     <lastmod>2020-01-25T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://xukangze.github.io/works/p5/</loc>
+    <lastmod>2019-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://xukangze.github.io/works/p6/</loc>
+  </url><url>
     <loc>https://xukangze.github.io/categories/</loc>
   </url><url>
     <loc>https://xukangze.github.io/tags/</loc>
   </url><url>
-    <loc>https://xukangze.github.io/works/p5/</loc>
-  </url><url>
-    <loc>https://xukangze.github.io/works/p6/</loc>
-  </url><url>
-    <loc>https://xukangze.github.io/works/p7/</loc>
-  </url><url>
-    <loc>https://xukangze.github.io/works/p8/</loc>
-  </url><url>
-    <loc>https://xukangze.github.io/about/</loc>
-  </url><url>
-    <loc>https://xukangze.github.io/about/poem/</loc>
+    <loc>https://xukangze.github.io/record/p2/</loc>
   </url><url>
     <loc>https://xukangze.github.io/about/music/</loc>
   </url><url>
-    <loc>https://xukangze.github.io/record/p2/</loc>
+    <loc>https://xukangze.github.io/about/</loc>
   </url><url>
-    <loc>https://xukangze.github.io/record/p3/</loc>
+    <loc>https://xukangze.github.io/works/p7/</loc>
   </url>
 </urlset>
